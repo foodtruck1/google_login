@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "623173041698",
+    "firebase_url": "https://foodtruck-f19c5.firebaseio.com",
+    "project_id": "foodtruck-f19c5",
+    "storage_bucket": "foodtruck-f19c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623173041698:android:dcf7ba6469a8943b",
+        "android_client_info": {
+          "package_name": "com.example.hannitalee.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623173041698-q9hv24mqckf54a7egfv1b2n5ose24hnb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hannitalee.login",
+            "certificate_hash": "BFA4B721CED8635946389BCC49D665F28C637338"
+          }
+        },
+        {
+          "client_id": "623173041698-pdbkn0shkkhlp0nddri1cchl7mjccn40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_qEH3Q5cNg8_NTsL_Hpmwsq6iT1PvBiY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623173041698-pdbkn0shkkhlp0nddri1cchl7mjccn40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623173041698:android:c7ea7aa8d73c46ad",
+        "android_client_info": {
+          "package_name": "com.example.hannitalee.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623173041698-cc2g4vur7f0dinn3aj4nm1qnd5ecdr8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hannitalee.firebase",
+            "certificate_hash": "BFA4B721CED8635946389BCC49D665F28C637338"
+          }
+        },
+        {
+          "client_id": "623173041698-pdbkn0shkkhlp0nddri1cchl7mjccn40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_qEH3Q5cNg8_NTsL_Hpmwsq6iT1PvBiY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623173041698-pdbkn0shkkhlp0nddri1cchl7mjccn40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
